@@ -27,7 +27,7 @@ The MLP model is a fully connected neural network that consists of multiple laye
 The CNN model is a deep learning architecture specifically designed for image classification tasks. It consists of convolutional layers, pooling layers, and fully connected layers. The CNN model is trained on the MRI images to detect tumors with higher accuracy.
 
 ## Results
-The performance of both models is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results show that the CNN model outperforms the MLP model in terms of accuracy and other evaluation metrics.
+The performance of both models is evaluated using metrics such as accuracy. The results show that the CNN model outperforms the MLP model in terms of accuracy and other evaluation metrics.
 
 ## Usage
 To run the notebook and train the models, follow these steps:
