@@ -11,7 +11,6 @@ This project focuses on the classification of brain MRI images to detect tumors 
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Brain tumor detection is a critical task in medical imaging. This project aims to classify brain MRI images to detect the presence of tumors using two different neural network architectures: MLP and CNN.
